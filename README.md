@@ -13,7 +13,8 @@ This project showcases a **Power BI dashboard** built to track SaaS support/tick
 ---
 
 ### 📌 Dashboard Preview  
-![Dashboard Preview](dashboard-preview.png)
+![Dashboard Preview](SaaS-Ticketing-Dashboard/Power_BI_Dashboard-preview.png)
+
 
 ---
 
@@ -33,3 +34,4 @@ This project showcases a **Power BI dashboard** built to track SaaS support/tick
 
 ### 📄 About
 This dashboard is designed to demonstrate **SaaS support analytics** and is part of my **data analytics portfolio**.
+
