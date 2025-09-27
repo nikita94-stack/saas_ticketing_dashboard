@@ -26,12 +26,13 @@ This project showcases a **Power BI dashboard** built to track SaaS support/tick
 ---
 
 ### 🚀 How to Use
-1. Download Power BI Desktop.  
-2. Open the `.pbix` file (if provided).  
-3. Explore visuals, slicers, and insights.  
+1. Browse the screenshots included in this repository.  
+2. Refer to the README for explanations of metrics and insights.
+3. Review the dashboard design, KPIs, and visuals.  
 
 ---
 
 ### 📄 About
 This dashboard is designed to demonstrate **SaaS support analytics** and is part of my **data analytics portfolio**.
+
 
