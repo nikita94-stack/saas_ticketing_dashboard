@@ -15,6 +15,25 @@ This project showcases a **Power BI dashboard** built to track SaaS support/tick
 ### 📌 Dashboard Preview  
 ![Dashboard Preview](SaaS-Ticketing-Dashboard/Power_BI_Dashboard-preview.png)
 
+---
+Page 1 – Executive Overview
+
+- Displays key KPIs: Total Tickets (39K), Avg Resolution Days, SLA %, Revenue (43M), and Revenue per Ticket (66K).
+- Highlights monthly resolution patterns and 30-day ticket closure trends.
+- Shows backlog status (34K tickets) to track pending workload.
+- Provides global revenue distribution by country and product.
+
+---
+
+### 📌 Dashboard Preview  
+
+
+---
+## 📊 Page 2 – Product Insights
+- Tracks **Avg Resolution Days** by product to measure efficiency.
+- Shows **ticket volume trends** by quarter and product.
+- Highlights **Top 5 Products by Tickets** and **Top 3 Products by SLA Met %**.
+- Breaks down tickets by **Product & Category** for cross-functional analysis.
 
 ---
 
@@ -34,5 +53,6 @@ This project showcases a **Power BI dashboard** built to track SaaS support/tick
 
 ### 📄 About
 This dashboard is designed to demonstrate **SaaS support analytics** and is part of my **data analytics portfolio**.
+
 
 
