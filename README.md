@@ -16,7 +16,7 @@ This project showcases a **Power BI dashboard** built to track SaaS support/tick
 
 ### 📌 Dashboard Preview  
 
-![Dashboard Preview](SaaS-Ticketing-Dashboard/Power_BI_Dashboard-preview.png)
+![Dashboard Preview](SaaS-Ticketing-Dashboard/Power_BI_Dashboard_1.png)
 
 ---
 ## 📊 Page 1 – Executive Dashboard
@@ -83,6 +83,7 @@ This project showcases my ability to design **end-to-end Power BI dashboards** w
 - **Business Storytelling** (executive + product-level insights)  
 
 It is part of my **data analytics portfolio** and demonstrates how Power BI can turn raw SaaS support data into **actionable business intelligence**.  
+
 
 
 
