@@ -27,7 +27,7 @@ Page 1 – Executive Overview
 
 ### 📌 Dashboard Preview  
 
-
+![Page 2 Dashboard](Power_BI_Dashboard_2.png)
 ---
 ## 📊 Page 2 – Product Insights
 - Tracks **Avg Resolution Days** by product to measure efficiency.
@@ -53,6 +53,7 @@ Page 1 – Executive Overview
 
 ### 📄 About
 This dashboard is designed to demonstrate **SaaS support analytics** and is part of my **data analytics portfolio**.
+
 
 
 
