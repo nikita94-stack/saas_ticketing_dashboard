@@ -1,6 +1,6 @@
 # 📊 SaaS Ticketing Dashboard (Power BI)
 
-This project showcases a **Power BI dashboard** built to track SaaS support/ticketing KPIs.  
+This project showcases a **Power BI dashboard** built to track SaaS support/ticketing KPIs and provides quick at-a-glance health check for stakeholders.
 
 ### 🔹 Key Features:
 - **Total Tickets & Category Split** –Track overall ticket volume (60K) by different business function
@@ -83,6 +83,7 @@ This project showcases my ability to design **end-to-end Power BI dashboards** w
 - **Business Storytelling** (executive + product-level insights)  
 
 It is part of my **data analytics portfolio** and demonstrates how Power BI can turn raw SaaS support data into **actionable business intelligence**.  
+
 
 
 
