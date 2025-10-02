@@ -57,6 +57,18 @@ This project showcases a **Power BI dashboard** built to track SaaS support/tick
 
 ---
 
+🚀 Business Value
+
+- Helps leadership monitor overall workload, SLA compliance, and revenue trends across functions.
+
+- Enables product managers to track efficiency, adoption, and quality performance of SaaS tools.
+
+- Provides actionable insights for resource allocation, backlog reduction, and SLA improvements.
+
+- Supports data-driven decisions for scaling SaaS operations and improving customer satisfaction.
+
+---
+
 ### 🚀 How to Use
 1. Browse the screenshots included in this repository.  
 2. Refer to the README for explanations of metrics and insights.
@@ -64,8 +76,13 @@ This project showcases a **Power BI dashboard** built to track SaaS support/tick
 
 ---
 
-### 📄 About
-This dashboard is designed to demonstrate **SaaS support analytics** and is part of my **data analytics portfolio**.
+### 📄 About  
+This project showcases my ability to design **end-to-end Power BI dashboards** with strong skills in:  
+- **Data Modeling** (relationships & schema design)  
+- **DAX** (custom measures & KPIs)  
+- **Business Storytelling** (executive + product-level insights)  
+
+It is part of my **data analytics portfolio** and demonstrates how Power BI can turn raw SaaS support data into **actionable business intelligence**.  
 
 
 
